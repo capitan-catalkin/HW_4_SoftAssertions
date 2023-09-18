@@ -16,7 +16,7 @@ public class SoftAssertionsTest {
     }
 
     @Test
-    void serchJUnit5(){
+    void searchJUnit5(){
         //Откройте страницу Selenide в Github
         open("selenide/selenide");
 
